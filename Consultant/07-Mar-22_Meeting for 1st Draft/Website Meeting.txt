@@ -1,0 +1,23 @@
+Elementor License
+Home
+About use
+Contact
+
+
+
+
+Set Schedule for a meeting regulary Website
+
+1- Set menu for the right side
+2- Logo
+3- SlideShow banner
+4- Content able to link to Bongthom website for annoncement
+5- Content able to show the facebook slide
+6- Set Ingredeint & colour Pallete
+7- Footer: three/four column
+8-Socail Media, Youtube display and able to dowload it
+
+
+
+Trello Account
+Sopheak Seng = TrelloPick-10
